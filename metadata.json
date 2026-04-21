@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Voice: Smart Watch TTS/STT",
+  "description": "A polished smartwatch interface simulator featuring high-performance Text-to-Speech and Speech-to-Text capabilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
